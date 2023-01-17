@@ -10,6 +10,11 @@
                 "language": "RU",
                 "text": "Правильный способ закрыть Superalgos - остановить все задачи, связанные с анализом данных и торговыми операциями, подождать несколько секунд, пока задачи не остановятся, и только затем закрыть браузер. Перед тем как закрыть консоль, вы должны подождать около минуты, пока не прекратится дальнейшая активность.",
                 "updated": 1639151786309
+            },
+            {
+                "language": "TR",
+                "text": "Superalgos'u kapatmanın doğru yolu, veri madenciliği ve ticaret işlemlerindeki tüm görevleri durdurmak, görevler durana kadar birkaç saniye beklemek ve ancak o zaman tarayıcıyı kapatmaktır. Konsolu kapatmadan önce, başka bir etkinlik olmayana kadar yaklaşık bir dakika beklemelisiniz.",
+                "updated": 1673983162551
             }
         ]
     },
@@ -23,6 +28,11 @@
                     "language": "RU",
                     "text": "Внутреннее приложение работает независимо от внешнего веб-приложения. Вы можете закрыть браузер в любой момент, не влияя на работу по интеллектуальному анализу данных или на ботов, которые вы можете запускать в своей тестовой или производственной среде. После перезапуска браузера и перехода к правильному URL-адресу интерфейсное приложение повторно подключается к серверной части, и вы восстанавливаете контроль над всеми операциями.",
                     "updated": 1639151846341
+                },
+                {
+                    "language": "TR",
+                    "text": "Arkaplan uygulaması, ön taraftaki tarayıcı tabanlı uygulamadan bağımsız olarak çalışır. Veri madenciliği çalışmanızı ya da test veya üretim ortamlarınızda çalıştırıyor olabileceğiniz botları etkilemeden tarayıcıyı herhangi bir noktada kapatabilirsiniz. Tarayıcıyı yeniden başlattığınızda ve doğru URL'ye gittiğinizde, ön yüz uygulaması arka yüz ile yeniden bağlantı kurar ve tüm işlem üzerinde kontrolü yeniden ele alırsınız.",
+                    "updated": 1673983307495
                 }
             ]
         },
@@ -35,6 +45,11 @@
                     "language": "RU",
                     "text": "Если вы хотите полностью закрыть Superalgos и остановить все операции, есть безопасный способ сделать это, предотвращая повреждение файлов, которые могут обрабатываться в любой момент.",
                     "updated": 1639151864462
+                },
+                {
+                    "language": "TR",
+                    "text": "Superalgos'u tamamen kapatmak ve tüm işlemleri durdurmak istiyorsanız, herhangi bir noktada işlenebilecek dosyaların bozulmasını önlerken bunu yapmanın güvenli bir yolu vardır.",
+                    "updated": 1673983337531
                 }
             ]
         },
@@ -46,6 +61,11 @@
                     "language": "RU",
                     "text": "Начало здесь",
                     "updated": 1639151878237
+                },
+                {
+                    "language": "TR",
+                    "text": "Buradan Başlayın",
+                    "updated": 1673983361619
                 }
             ]
         },
@@ -57,6 +77,11 @@
                     "language": "RU",
                     "text": "1. Закройте все задачи интеллектуального анализа данных. Выберите Stop All Exchange Data Tasks в меню узла интеллектуального анализа данных.",
                     "updated": 1639151963998
+                },
+                {
+                    "language": "TR",
+                    "text": "1. Tüm veri madenciliği görevlerini kapatın ( Close ). Veri madenciliği düğümü menüsünde Tüm Borsa Veri Görevlerini ( Exchange Data Tasks ) Durdur öğesini seçin.",
+                    "updated": 1673983464685
                 }
             ]
         },
@@ -68,6 +93,11 @@
                     "language": "RU",
                     "text": "2. Закройте все задачи в среде тестирования и производственной среде. Выберите Stop All Task Managers в меню узлов тестовой и производственной среды.",
                     "updated": 1639152087659
+                },
+                {
+                    "language": "TR",
+                    "text": "2. Test ortamındaki ve bu ortamın içindeki tüm görevleri kapatın ( Close ). Test ve kontrol ortamı düğüm menülerinde Tüm Görev ( Task ) Yöneticilerini Durdur'u seçin.",
+                    "updated": 1673983637025
                 }
             ]
         },
@@ -79,6 +109,11 @@
                     "language": "RU",
                     "text": "3. Подождите несколько секунд, пока все задачи не будут остановлены, и закройте браузер.",
                     "updated": 1639152102420
+                },
+                {
+                    "language": "TR",
+                    "text": "3. Tüm görevler durdurulana kadar birkaç saniye bekleyin ve tarayıcıyı kapatın.",
+                    "updated": 1673983658495
                 }
             ]
         },
@@ -90,6 +125,11 @@
                     "language": "RU",
                     "text": "4. Подождите примерно одну минуту, пока вся активность консоли не прекратится, затем закройте ее.",
                     "updated": 1639152119649
+                },
+                {
+                    "language": "TR",
+                    "text": "4. Konsoldaki tüm etkinlik durana kadar yaklaşık bir dakika bekleyin ve ardından konsolu kapatın.",
+                    "updated": 1673983691786
                 }
             ]
         }
