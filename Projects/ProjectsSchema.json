@@ -873,6 +873,12 @@
             ],
             "utilities": [
                 {
+                    "name": "Credentials Functions",
+                    "propertyName": "credentialsFunctions",
+                    "functionName": "newFoundationsUtilitiesCredentialsFunctions",
+                    "fileName": "CredentialsFunctions.js"
+                },
+                {
                     "name": "Date Time Functions",
                     "propertyName": "dateTimeFunctions",
                     "functionName": "newFoundationsUtilitiesDateTimeFunctions",
@@ -1703,6 +1709,14 @@
             ]
         },
         "SA": {
+            "functionLibraries": [
+                {
+                    "name": "Profile Token Power",
+                    "propertyName": "profileTokenPower",
+                    "functionName": "newGovernanceFunctionLibraryProfileTokenPower",
+                    "fileName": "ProfileTokenPower.js"
+                }
+            ],
             "utilities": [
                 {
                     "name": "Signing Accounts",
@@ -1715,6 +1729,12 @@
                     "propertyName": "balances",
                     "functionName": "newGovernanceUtilitiesBalances",
                     "fileName": "Balances.js"
+                },
+                {
+                    "name": "Validations",
+                    "propertyName": "validations",
+                    "functionName": "newGovernanceUtilitiesSAValidations",
+                    "fileName": "Validations.js"
                 }
             ]
         },
